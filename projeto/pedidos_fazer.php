@@ -81,7 +81,7 @@
                                     </div>
                                     <div class="col-md-6">
                                         <label for="data_entrega" class="form-label">DATA DE ENTREGA</label>
-                                        <input type="date" id="fata_entrega" name="data_entrega" class="form-control" required>
+                                        <input type="date" id="data_entrega" name="data_entrega" class="form-control" required>
                                     </div>
                                 </div>
                                 <hr>
@@ -104,4 +104,5 @@
             </div>
         </div>
     </body>
+
 </html>
