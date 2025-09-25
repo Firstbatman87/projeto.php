@@ -28,7 +28,6 @@
         <meta name="viewport" content="width=decive-width, initial-scale=1">
         <title>SALGADINHOS DA MAMÃE</title>
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-        
         <style>
             .main-header { display: flex; justify-content: space-between; align-items: center; padding: 15px 10px; }
             .user-info {display: flex; align-items: center;  gap: 8px; color: gray;}
@@ -106,3 +105,4 @@
     </body>
 
 </html>
+
